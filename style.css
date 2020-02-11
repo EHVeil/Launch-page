@@ -1,0 +1,18 @@
+body{
+  color:#13b213;
+}
+
+.navbar{
+  padding 1rem;
+  background-color:#13b213;
+}
+
+.btn-success:hover {
+  background-color: purple;
+  color: white;
+}
+
+footer{
+  padding 1rem;
+  background-color:#13b213;
+}
